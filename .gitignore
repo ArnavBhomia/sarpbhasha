@@ -1,0 +1,11 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# PyInstaller junk
+build/
+dist/
+*.spec
+
+# Temp files
+*.mp3
