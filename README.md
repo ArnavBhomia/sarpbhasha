@@ -3,7 +3,7 @@
 This is a "best-in-class" desktop translator application built with Python and CustomTkinter.
 This project was created as part of the Minor Specialization in Python (Fundamentals Of Computing) at Manipal Institute of Technology.
 
-##✨ Features
+## ✨ Features
 
 * Translation between 7 major languages (and auto-detect)
 * Modern, clean GUI with light/dark mode toggle
@@ -11,17 +11,17 @@ This project was created as part of the Minor Specialization in Python (Fundamen
 * One-click copy to clipboard
 * Custom UI with themed buttons and a professional layout
 
-##📸 Screenshots
+## 📸 Screenshots
 
 ![SarpBhasha_Test1](https://github.com/user-attachments/assets/eec06c0f-6b11-479c-b2d5-4c1572c81e1a)
 ![SarpBhasha_Test2](https://github.com/user-attachments/assets/876dcb50-a4f3-4a7a-b2ec-f23ad3cc9ec0)
 
-##📽️ Demonstration
+## 📽️ Demonstration
 
 Watch a short demo of the Text-to-Speech (TTS) feature on YouTube.
 [SarpBhasha Demo Video](https://youtu.be/Uqgwzc0LbLw)
 
-##💻 Tech Stack
+## 💻 Tech Stack
 
 * **GUI:** `CustomTkinter`
 * **Translation Engine:** `deep-translator`
